@@ -1,4 +1,4 @@
-`convert video.mp4 to audio.mp3`\
+`convert video.mp4 to audio.avi`\
 `extract audio from video.mp4 in mp3 format`\
 `cut video.mp4 from 01:04:00 to 02:02:00`\
 `split video.mp4 into 4 equal parts`\
